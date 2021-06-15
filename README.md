@@ -10,3 +10,5 @@ Implemented sites
 https://dev.myprivia.com/
 
 https://staging-myprivia.temp927.kinsta.cloud/
+
+https://myprivia.com
