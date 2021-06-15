@@ -55,7 +55,7 @@ to support you on every step in your journey.</p>
         <img src="<?php echo get_template_directory_uri(); ?>/img/ped.jpg" alt="pediatrics" class="vv">
         <div class="tcs2-text">
             <h2>Our doctors do more.</h2>
-            <p>You can enjoy personalized care without pricey fees. Our doctors take time to listen to your concerns, from wellness
+            <p>You can enjoy personalized care without pricey membership fees. Our doctors take time to listen to your concerns, from wellness
             programs to chronic care management.</p>
         </div>
     </div>
@@ -78,9 +78,9 @@ to support you on every step in your journey.</p>
 <div class="tsec2">
 <div class="menu-right">
 <ul class="nav-top-right"> 
-<li class="ppicon"><a href="https://staging-myprivia.temp927.kinsta.cloud/account-access/">Patient Portal</a></li>
-<li class="maicon"><a href="https://staging-myprivia.temp927.kinsta.cloud/mobile-app">Mobile App</a></li>
-<li class="cicon"><a href="https://staging-myprivia.temp927.kinsta.cloud/pay-bill/">Pay My Bill</a></li>
+<li class="ppicon"><a href="/account-access/">Patient Portal</a></li>
+<li class="maicon"><a href="/mobile-app/">Mobile App</a></li>
+<li class="cicon"><a href="/pay-bill/">Pay My Bill</a></li>
 <!--<li class="pmicon"><a href="#">Pay My Bill</a></li>-->
 <li class="ppo">Proudly part of</li>
 <li>
@@ -116,7 +116,7 @@ to support you on every step in your journey.</p>
     
         </div>
         <div class="sb2">
-       <span class="user2"><a href="#" class="button1 button-blue btn-bold" > GET CARE NOW</a></span>
+       <span class="user2"><a href="http://find-a-doctor.priviamedicalgroup.com/" class="button1 button-blue btn-bold" > GET CARE NOW</a></span>
         </div>
     </div>
 </div>
@@ -168,7 +168,7 @@ to support you on every step in your journey.</p>
                   </div>
                 <div class="mtslide-text">
                     <h2>Our doctors do more.</h2>
- <p>You can enjoy personalized care without pricey fees. Our doctors take time to listen to your concerns, from wellness
+ <p>You can enjoy personalized care without pricey membership fees. Our doctors take time to listen to your concerns, from wellness
             programs to chronic care management.</p>
                 </div>   
             </div>
@@ -197,7 +197,9 @@ to support you on every step in your journey.</p>
 <div class="mob-top-nav">
 <div class="mob-top-logo">
     <!--<p>PRIVIA HEALTH</p>--->
- <img src="<?php echo get_template_directory_uri(); ?>/logo.png" alt="Privia logo" class="mtl"></a>
+    <div class="mtl">
+   <a href="/"><span> <img src="<?php echo get_template_directory_uri(); ?>/logo.png" alt="Privia logo" ></span></a>
+ </div>
 </div>
 <!--<div class="phone-icon">
     <i class="fas fa-phone-volume"></i>
@@ -221,8 +223,8 @@ to support you on every step in your journey.</p>
              <button class=" accordion">WHO WE ARE</button>
 <div class="panel">
  <ul class="pan-links">
- <li><a href="https://staging-myprivia.temp927.kinsta.cloud/about-us/">About Us</a></li>
-  <li><a href="https://staging-myprivia.temp927.kinsta.cloud/contact-us/">Contact Us</a></li>
+ <li><a href="/about-us/">About Us</a></li>
+  <li><a href="/contact-us/">Contact Us</a></li>
   <!-- <li><a href="#">Link3</a></li>-->
  
  </ul>
@@ -231,10 +233,10 @@ to support you on every step in your journey.</p>
 <button class="accordion ">HOW WE HELP</button>
 <div class="panel">
  <ul class="pan-links">
- <li><a href="https://staging-myprivia.temp927.kinsta.cloud/virtual-health/">Virtual Health</a></li>
-  <li><a href="https://staging-myprivia.temp927.kinsta.cloud/account-access/">Patient Portal</a></li>
-   <li><a href="https://staging-myprivia.temp927.kinsta.cloud/medicare/">Understanding Medicine</a></li>
-    <li><a href="https://staging-myprivia.temp927.kinsta.cloud/coronavirus/">Covid-19 Resources</a></li>
+ <li><a href="/virtual-health/">Virtual Health</a></li>
+  <li><a href="/account-access/">Patient Portal</a></li>
+   <li><a href="/medicare/">Understanding Medicine</a></li>
+    <li><a href="/coronavirus/">Covid-19 Resources</a></li>
  
  </ul>
 </div>
@@ -252,9 +254,9 @@ to support you on every step in your journey.</p>
 <!--acc below menu starts-->
 <div class="accb-menu">
 <ul class="accb-links">
-<li class="mpp"><a href="https://staging-myprivia.temp927.kinsta.cloud/account-access/" class="ppm">Patient Portal</a></li>
-<li class="mpmb"><a href="https://staging-myprivia.temp927.kinsta.cloud/pay-bill/">Pay My Bill</a></li>
-<li class="mcu"><a href="https://staging-myprivia.temp927.kinsta.cloud/contact-us/">Contact Us</a></li>
+<li class="mpp"><a href="/account-access/" class="ppm">Patient Portal</a></li>
+<li class="mpmb"><a href="/pay-bill/">Pay My Bill</a></li>
+<li class="mcu"><a href="/contact-us/">Contact Us</a></li>
 <li class="me"><a><?php echo do_shortcode('[gtranslate]'); ?></a></li>
  </ul>   
  </div>   
